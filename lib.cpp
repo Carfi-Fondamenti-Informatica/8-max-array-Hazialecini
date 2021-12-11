@@ -12,7 +12,7 @@ float numeroMassimo(const float numeri[], int dim) {
 }
 
 return massimo;
-}
+
 
 
 
