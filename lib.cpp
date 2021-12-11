@@ -2,7 +2,6 @@
 // Created by hazia lecini on 11/12/21.
 //
 #include "lib.h"
-{
 
 float numeroMassimo(const float numeri[], int dim) {
     numeri[dim];
